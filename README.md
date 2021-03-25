@@ -11,5 +11,6 @@ In this repository, you'll find the weather application I've done within this co
 - Express.js
 - REST APIs
 - Heroku 
+- Handlebars.js
 - etc.
 
